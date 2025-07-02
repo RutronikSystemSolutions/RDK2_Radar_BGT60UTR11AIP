@@ -6,7 +6,7 @@ This code example demonstrates digital signal processing implemented on a PSoC62
 
 ## Requirements
 
-- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) **v3.x** [built with **v3.1**]
+- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) **v2025.4.0** [built with **v3.1**]
 - BGT60UTR11AIP wing board from Infineon
 - [RDK2](https://www.rutronik24.fr/produit/rutronik/rdk2/16440182.html)
 
